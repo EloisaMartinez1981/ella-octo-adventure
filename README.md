@@ -1,2 +1,1 @@
-# ella-octo-adventure
-Ella-Intelligent
+Ella-Intelligent.md
